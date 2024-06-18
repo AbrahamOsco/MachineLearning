@@ -14,3 +14,8 @@ https://docs.google.com/document/d/17JqXlqlF9r2GC8B5du-zkYJdHoJ6u3ZffK8jDgphKCo/
 
 ## Apunte de la materia: 
 https://docs.google.com/document/d/1xsOVPOstIHUS-pq77BG1PQ0F8t4Ujy_M2RtdiUEYfrU/edit
+
+
+## Datasets: 
+1. https://data.world/properati/real-estate-listings-argentina (only csv type sell)
+1. 
