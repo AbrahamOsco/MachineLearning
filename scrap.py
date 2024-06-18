@@ -89,9 +89,6 @@ def scrape_web_server():
             final_dic = get_dic_data(soup)
             print("final_dic",  final_dic)
            
-            with open('respuesta.txt', 'w', encoding='utf-8') as f:
-                f.write(html)
-            print("Respuesta guardada en respuesta.html")
 
     except Exception as e:
         print(f"Error al obtener la página con Selenium: {e}")
